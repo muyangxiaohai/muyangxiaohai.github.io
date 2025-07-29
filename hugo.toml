@@ -27,7 +27,7 @@ theme = "Niello"
 	[languages.zh]
         languageCode = "zh-cn"
         LanguageName = "🇨🇳CN"
-        contentDir = "content/zh"
+        contentDir = "content/posts"
         weight = 2
 		[[languages.zh.menus.main]]
 			name = 'example首页'
