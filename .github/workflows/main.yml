@@ -1,0 +1,51 @@
+# 工作流名称
+name: Deploy Hugo site to gh-pages
+
+# 触发条件
+on:
+  # 当向 main 分支 push 代码时触发
+  push:
+    branches:
+      - main
+  # 允许手动触发
+  workflow_dispatch:
+
+# 设置 GITHUB_TOKEN 的权限
+permissions:
+  contents: write # 允许向仓库写入内容
+
+# 定义任务
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 第一步：拉取源码
+      # 使用你当前的 main 分支作为源码
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive  # 拉取主题子模块
+          fetch-depth: 0        # 获取所有历史，以便 Hugo 生成 lastmod
+
+      # 第二步：设置 Hugo 环境
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      # 第三步：构建网站
+      # Hugo 会将生成的网站文件放在 ./public 目录
+      - name: Build
+        run: hugo --minify
+
+      # 第四步：部署到 gh-pages 分支
+      # 这个 Action 会自动处理好一切
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # 这个 token 是 GitHub 自动提供的，不需要你手动设置 secret
+          # 它有权限向当前仓库推送代码
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # 要将哪个文件夹的内容推送到 gh-pages 分支
+          publish_dir: ./public
