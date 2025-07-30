@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zhs on {CodeTrace} - Discover Issues, Share Solutions.</title><link>https://muyangxiaohai.github.io/zh/</link><description>Recent content in Zhs on {CodeTrace} - Discover Issues, Share Solutions.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 09:34:12 +0800</lastBuildDate><atom:link href="https://muyangxiaohai.github.io/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>Example1 Title - ZH</title><link>https://muyangxiaohai.github.io/zh/example1/example1/</link><pubDate>Wed, 11 Dec 2024 09:34:12 +0800</pubDate><guid>https://muyangxiaohai.github.io/zh/example1/example1/</guid><description>&lt;h2 id="example-1-content---zh">Example 1 Content - ZH&lt;/h2>
+&lt;p>Content should be placed within the language directory, for example, Chinese.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>|---content/en
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|---content/fr
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|---content/zh
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>			|---/example1
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>					|---example1-1.md
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>					|---example1-2.md
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>			|---/example2
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>					|---example2-1.md
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>					|---example2-2.md
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>					|---example2-3.md
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|---content/de
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

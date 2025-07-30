@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on</title><link>https://muyangxiaohai.github.io/en/categories/</link><description>Recent content in Categories on</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2025 09:32:11 +0800</lastBuildDate><atom:link href="https://muyangxiaohai.github.io/en/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Design</title><link>https://muyangxiaohai.github.io/en/categories/design/</link><pubDate>Wed, 08 Jan 2025 09:32:11 +0800</pubDate><guid>https://muyangxiaohai.github.io/en/categories/design/</guid><description/></item><item><title>Development</title><link>https://muyangxiaohai.github.io/en/categories/development/</link><pubDate>Wed, 08 Jan 2025 09:32:11 +0800</pubDate><guid>https://muyangxiaohai.github.io/en/categories/development/</guid><description/></item><item><title>Privacy</title><link>https://muyangxiaohai.github.io/en/categories/privacy/</link><pubDate>Mon, 23 Dec 2024 08:16:03 +0800</pubDate><guid>https://muyangxiaohai.github.io/en/categories/privacy/</guid><description/></item><item><title>Terms</title><link>https://muyangxiaohai.github.io/en/categories/terms/</link><pubDate>Mon, 23 Dec 2024 08:16:03 +0800</pubDate><guid>https://muyangxiaohai.github.io/en/categories/terms/</guid><description/></item><item><title>Archives</title><link>https://muyangxiaohai.github.io/en/categories/archives/</link><pubDate>Fri, 25 Oct 2024 09:16:03 +0800</pubDate><guid>https://muyangxiaohai.github.io/en/categories/archives/</guid><description/></item><item><title>Cookie</title><link>https://muyangxiaohai.github.io/en/categories/cookie/</link><pubDate>Fri, 25 Oct 2024 09:16:03 +0800</pubDate><guid>https://muyangxiaohai.github.io/en/categories/cookie/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://www.example.com/en/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2025 09:32:11 +0800</lastBuildDate>
+    <atom:link href="https://www.example.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>https://www.example.com/en/categories/design/</link>
+      <pubDate>Wed, 08 Jan 2025 09:32:11 +0800</pubDate>
+      <guid>https://www.example.com/en/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://www.example.com/en/categories/development/</link>
+      <pubDate>Wed, 08 Jan 2025 09:32:11 +0800</pubDate>
+      <guid>https://www.example.com/en/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://www.example.com/en/categories/privacy/</link>
+      <pubDate>Mon, 23 Dec 2024 08:16:03 +0800</pubDate>
+      <guid>https://www.example.com/en/categories/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terms</title>
+      <link>https://www.example.com/en/categories/terms/</link>
+      <pubDate>Mon, 23 Dec 2024 08:16:03 +0800</pubDate>
+      <guid>https://www.example.com/en/categories/terms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>https://www.example.com/en/categories/archives/</link>
+      <pubDate>Fri, 25 Oct 2024 09:16:03 +0800</pubDate>
+      <guid>https://www.example.com/en/categories/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cookie</title>
+      <link>https://www.example.com/en/categories/cookie/</link>
+      <pubDate>Fri, 25 Oct 2024 09:16:03 +0800</pubDate>
+      <guid>https://www.example.com/en/categories/cookie/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terms on</title><link>https://muyangxiaohai.github.io/en/categories/terms/</link><description>Recent content in Terms on</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2024 08:16:03 +0800</lastBuildDate><atom:link href="https://muyangxiaohai.github.io/en/categories/terms/index.xml" rel="self" type="application/rss+xml"/><item><title>Terms</title><link>https://muyangxiaohai.github.io/en/terms/</link><pubDate>Mon, 23 Dec 2024 08:16:03 +0800</pubDate><guid>https://muyangxiaohai.github.io/en/terms/</guid><description>&lt;p>Example Terms Content&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terms on </title>
+    <link>https://www.example.com/en/categories/terms/</link>
+    <description>Recent content in Terms on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2024 08:16:03 +0800</lastBuildDate>
+    <atom:link href="https://www.example.com/en/categories/terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terms</title>
+      <link>https://www.example.com/en/terms/</link>
+      <pubDate>Mon, 23 Dec 2024 08:16:03 +0800</pubDate>
+      <guid>https://www.example.com/en/terms/</guid>
+      <description>&lt;p&gt;Example Terms Content&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
